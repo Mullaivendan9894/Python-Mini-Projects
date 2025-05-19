@@ -1,0 +1,11 @@
+datetime
+numpy
+pandas
+openpyxl
+matplotlib
+seaborn
+requests
+mysql-connector-python
+pytest
+pydantic
+streamlit

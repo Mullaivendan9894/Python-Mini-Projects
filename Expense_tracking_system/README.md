@@ -14,6 +14,9 @@ A full-stack application for tracking expenses with MySQL database, FastAPI back
 | Validation | Pydantic       | Validates incoming request payloads         |
 | Logging    | Python Logging | Tracks API transactions and debug info      |
 
+## System Workflow
+![Add Expenses](screenshots/project_workflow_png.png)
+
 ## Project Structure  
 <pre>expense-tracking-system/
 ├── backend/

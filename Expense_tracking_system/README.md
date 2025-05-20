@@ -15,7 +15,7 @@ A full-stack application for tracking expenses with MySQL database, FastAPI back
 | Logging    | Python Logging | Tracks API transactions and debug info      |
 
 ## System Workflow
-![Add Expenses](screenshots/project_workflow_png.png)
+![Add Expenses](screenshots/project_work_flow.png)
 
 ## Project Structure  
 <pre>expense-tracking-system/
